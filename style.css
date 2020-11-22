@@ -1,0 +1,16 @@
+html, body{
+    background-color: black;
+}
+.game-card {
+    height: 100vh;
+}
+.card-body {
+    background-color: #f5eee1;
+}
+
+.card-header {
+    background-color: #e9dcc5;
+}
+.card-footer {
+    background-color: #e9dcc5;
+}
